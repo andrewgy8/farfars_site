@@ -10,7 +10,7 @@ Monologue.config do |config|
   config.posts_per_page = 10
   config.preview_size = 1000
 
-  config.disqus_shortname = "disqus_JVjD3jxo2Z"
+  config.disqus_shortname = "https-secure-temple-52022-herokuapp-com"
 
   # LOCALE
   config.twitter_locale = "en" # "fr"
