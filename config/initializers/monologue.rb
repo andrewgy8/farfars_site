@@ -1,7 +1,7 @@
 Monologue.config do |config|
   config.site_name = "Fred Graham-Yooll"
   config.site_subtitle = "All his finest research"
-  config.site_url = "http://example.com"
+  config.site_url = "http://www.earthwatchstudygroup.com/"
 
   config.meta_description = "My blog about the world, its history and various other things I find myself toiling about in my office."
   config.meta_keyword = "history, climate-change, science"
@@ -28,7 +28,7 @@ Monologue.config do |config|
 
   #SOCIAL
   config.twitter_username = "myhandle"
-  config.facebook_url = "https://www.facebook.com/andrewgy8"
+  config.facebook_url = "https://www.facebook.com/fred.grahamyooll"
   config.facebook_logo = 'logo.png'
   config.google_plus_account_url = "https://plus.google.com/u/1/.../posts"
   config.linkedin_url = "http://www.linkedin.com/in/myhandle"
